@@ -95,7 +95,7 @@ public class RockPaperScissors {
                 System.out.println("输入错误,请重新输入!");
                 System.out.println("需要进行下一局吗?<y/n>");
                 option = scanner2.next();
-            }
+        	}
 		}
 	}
 }
